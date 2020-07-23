@@ -1,4 +1,4 @@
-## Thierry Fernando R. de Oliveira 
+## Thierry Fernando R. de Oliveira
 [![Linkedin Badge](https://img.shields.io/badge/-Thierry-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thierry-fernando/) 
 [![Gmail Badge](https://img.shields.io/badge/-thierrygigix@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thierrygigix@gmail.com)](mailto:davisrobertosouza@gmail.com)
 
@@ -8,8 +8,7 @@
 
 
 
-
-## ***Techs***  🧑🏻‍💻
+### ***Techs***  🧑🏻‍💻
 
 ![ruby](https://img.shields.io/badge/-ruby-b21607?style=for-the-badge&logo=ruby&logoColor=white) ![ruby](https://img.shields.io/badge/-rails-900d0d?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -17,3 +16,8 @@
 
 ![ruby](https://img.shields.io/badge/-typescript-0f4c75?style=for-the-badge&logo=typescript&logoColor=white) ![ruby](https://img.shields.io/badge/-angular-c70039?style=for-the-badge&logo=angular&logoColor=white)
 
+
+
+
+### ***Github Stats***
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thierryfro&show_icons=true&theme=dracula)
