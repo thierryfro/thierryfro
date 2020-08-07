@@ -17,7 +17,10 @@
 ![ruby](https://img.shields.io/badge/-typescript-0f4c75?style=for-the-badge&logo=typescript&logoColor=white) ![ruby](https://img.shields.io/badge/-angular-c70039?style=for-the-badge&logo=angular&logoColor=white)
 
 
+### ***Most used languages***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thierryfro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ***Github Stats***
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thierryfro&show_icons=true&theme=dracula)
+
